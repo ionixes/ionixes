@@ -8,4 +8,4 @@ I am a tech enthusiast interested in physics and computer modeling. In my work, 
 ![link](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg) [LinkedIn](www.linkedin.com/in/ivan-tovstolyak-37bb17280) <br>
 👾 [My site](https://sjohanns.gitlab.io/johax/) <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionixes&show_icons=true&theme=dark&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionixes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
