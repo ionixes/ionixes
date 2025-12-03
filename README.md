@@ -7,4 +7,5 @@ I am a tech enthusiast interested in physics and computer modeling. In my work, 
 ![small-colored-gitlab](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/gitlab.svg) [Gitlab](https://gitlab.com/sjohanns) <br>
 ![link](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg) [LinkedIn](www.linkedin.com/in/ivan-tovstolyak-37bb17280) <br>
 👾 [My site](https://sjohanns.gitlab.io/johax/) <br>
-![stats](https://github-readme-stats.vercel.app/api?username=ionixes&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionixes&show_icons=true&theme=dark&hide=contribs,prs)
