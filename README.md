@@ -5,6 +5,6 @@ I am a tech enthusiast interested in physics and computer modeling. In my work, 
 ✉️ [Gmail](mailto:tovstolaki62@gmail.com)
 ![tel](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/telegram.svg) [Telegram][t.me/uwopit]
 ![small-colored-gitlab](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/gitlab.svg) [Gitlab](https://gitlab.com/sjohanns)
-![link](https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg) [LinkedIn](www.linkedin.com/in/ivan-tovstolyak-37bb17280)
+![link](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg) [LinkedIn](www.linkedin.com/in/ivan-tovstolyak-37bb17280)
 👾 [My site](https://sjohanns.gitlab.io/johax/)
 
